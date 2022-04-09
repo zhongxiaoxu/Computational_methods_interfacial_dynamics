@@ -1,0 +1,3 @@
+# Computational_methods_interfacial_dynamics
+
+This project aims to study the sedimentation of a surfactant-laden drop in a liquid with particles. A 2D simulation is performed with MATLAB. The interface is captured by the front- tracking method. The local viscosity depends on the local particle concentration, which follows a power law. The surfactants not only decreases the surface tension but also induces a surface tension gradient. If the surface tension decreases, the settling velocity will decrease due to a larger deformation of the drop (i.e., the drop becomes more flat). Additionally, increasing the Peclet number (ratio of convection to diffusion along the interface) for surfactants will reduce the settling velocity due to a larger surface tension gradient.
